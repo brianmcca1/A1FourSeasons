@@ -1,0 +1,14 @@
+/DealToWastepile.class
+/FourSeasons.class
+/FourSeasonsCrossController.class
+/FourSeasonsDeckController.class
+/FourSeasonsFoundationController.class
+/FourSeasonsWastePileController.class
+/MoveCrossToCross.class
+/MoveCrossToFoundation.class
+/MoveWastepileToCross.class
+/MoveWastepileToFoundation.class
+/TestDealToWastepile.class
+/TestInitialDeal.class
+/TestMoveToCross.class
+/TestMoveToFoundation.class
